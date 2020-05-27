@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794420588175",
+    "firebase_url": "https://flash-chat-38caf.firebaseio.com",
+    "project_id": "flash-chat-38caf",
+    "storage_bucket": "flash-chat-38caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794420588175:android:a164743c1085d34aa38afa",
+        "android_client_info": {
+          "package_name": "com.harvoc.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794420588175-vg9cnhrpn4e0msejpfrl5khb79b5bp7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLUBbz1J6UTul4B_AuvBUHx6nXiofJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794420588175-vg9cnhrpn4e0msejpfrl5khb79b5bp7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
